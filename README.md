@@ -1,1 +1,1 @@
-# paython_asoslari
+# python_asoslari
